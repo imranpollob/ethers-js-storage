@@ -1,0 +1,4 @@
+node_modules
+.env
+.encryptedKey.json
+Storage_sol_*
